@@ -1,0 +1,2 @@
+First lab: Surface area, volume, density with uncertainty - Due: 1/21 (Full lab)
+Second lab: Constant acceleration and fitting - Due: 1/25 (Short lab)
